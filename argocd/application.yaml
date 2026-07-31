@@ -6,8 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/opeyf/Ecommerce-platform-with-microservice-architecture
-    targetRevision: HEAD
+    repoURL: https://github.com/opeyemiogungbe/Ecommerce-platform-with-microservice-architecture.git
     path: K8s
   destination:
     server: https://kubernetes.default.svc
@@ -25,7 +24,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/opeyf/Ecommerce-platform-with-microservice-architecture
+    repoURL: https://github.com/opeyemiogungbe/Ecommerce-platform-with-microservice-architecture.git
     targetRevision: HEAD
     path: K8s/ingress-controller
   destination:
