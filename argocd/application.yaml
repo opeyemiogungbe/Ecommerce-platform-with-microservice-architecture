@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/opeyf/Ecommerce-platform-with-microservice-architecture.git
+    repoURL: https://github.com/opeyemiogungbe/Ecommerce-platform-with-microservice-architecture.git
     targetRevision: HEAD
     path: K8s
   destination:
